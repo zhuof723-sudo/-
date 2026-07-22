@@ -2,6 +2,7 @@
 
 ### ADD
 
+
 - 新增 **TCP_CONCURRENT_DIAL** 环境变量，可自定义 **TCP 并发拨号数**；设置后不再根据中国移动网络自动降为单路。
 - 新增 **PROXY_CONCURRENT_DIAL** 环境变量，可自定义 **反代并发拨号数**。
 
